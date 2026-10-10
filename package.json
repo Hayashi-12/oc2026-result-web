@@ -1,0 +1,15 @@
+{
+  "name": "oc2026-result-viewer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^7.1.7"
+  },
+  "devDependencies": {}
+}
